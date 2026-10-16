@@ -10,3 +10,6 @@ dist/
 *.tsbuildinfo
 demo/_audio/
 demo/_video/
+.cursor/
+.cursorrules
+.cursorignore
